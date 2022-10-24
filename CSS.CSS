@@ -1,0 +1,14 @@
+html {
+    background-color: #00539F;
+  }
+    body {
+    width: 700px;
+    margin: auto;
+    background-color: rgba(148, 148, 148, 0.993);
+    padding: 0 20px 20px 20pt black;
+    }
+  
+    img {
+    display: block;
+    margin:  auto;
+    }  
